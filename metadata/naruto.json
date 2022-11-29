@@ -1,0 +1,22 @@
+{
+    "name": "Naruto",
+    "description": "aruto Uzumaki wants to be the best ninja in the land. He's done well so far, but with the looming danger posed by the mysterious Akatsuki organization, Naruto knows he must train harder than ever and leaves his village for intense exercises that will push him to his limits.",
+    "image": "https://ipfs.io/ipfs/QmeTvYwSg14ewXMKcKGZSYFz9YLMSgsqTaHs9nRKigqdNE",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Clone",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 9,
+            "max_value": 10
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Minato",
+    "description": "He was the Fourth Hokage of the Hidden Leaf Village. He was also the husband of Kushina Uzumaki, and the father of Naruto Uzumaki.",
+    "image": "https://ipfs.io/ipfs/QmQBjazGCS7WEbUPyGG23UedQAJza4oPoV7kK4kmyfq7c3",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Clone",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 9,
+            "max_value": 10
+        }
+    ]
+}

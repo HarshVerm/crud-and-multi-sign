@@ -1,0 +1,22 @@
+{
+    "name": "Sasuke",
+    "description": "Sasuke Uchiha (うちはサスケ, Uchiha Sasuke) is one of the last surviving members of Konohagakure's Uchiha clan. After his older brother, Itachi, slaughtered their clan, Sasuke made it his mission in life to avenge them by killing Itachi. ",
+    "image": "https://ipfs.io/ipfs/QmZxWQsAHDXXDYjL5mFXDSyoeiY7TCFiGkAeYUrY1xwooV",
+    "attributes": [
+        {
+            "trait_type": "Strength",
+            "value": 9,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Clone",
+            "value": 10,
+            "max_value": 10
+        },
+        {
+            "trait_type": "Speed",
+            "value": 9,
+            "max_value": 10
+        }
+    ]
+}
